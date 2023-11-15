@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Meric Rov**
 
-- 🌱 I’m currently learning **Python,Data Science,C#,Data Structure and Algorithms**
+- 🌱 I’m currently learning **Python,Cyber Security,**
 
 - 📫 How to reach me **ersangemici@protonmail.com**
 
