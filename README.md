@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ersan Gemici</h1>
 <h3 align="center">I'm currently studying Trakya University Computer Engineering</h3>
 
-- 🔭 I’m currently working on **Meric Rov**
 
 - 🌱 I’m currently learning **Python,Cyber Security,**
 
